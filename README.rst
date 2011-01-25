@@ -1,9 +1,10 @@
 | Copyright 2011 `John Wiseman`_
 | Covered by the MIT License, see `LICENSE.txt`_.
 
-==
+
+==================
 sane-cliki.user.js
-==
+==================
 
 This script is a client-side hack to fix `CLiki`_'s handling of HTML
 entities when editing pages.  It also fixes the ALU wiki (which is
