@@ -6,13 +6,13 @@
 sane-cliki.user.js
 ==================
 
-This script is a client-side hack to fix `CLiki`_'s handling of HTML
-entities when editing pages.  It also fixes the ALU wiki (which is
-running Kiwi, a descendant of CLiki).  Currently CLiki forgets to
-encode entities before writing out the source of the page you're
-editing into the relevant <TEXTAREA> field.  One consequence of this
-is that if you enter "&amp;lt;" into the textarea, then re-edit the
-page, you'll see "&lt;".  For more ranting, see my lemonodor post
+This Greasemonkey script is a client-side hack to fix `CLiki`_'s
+handling of HTML entities when editing pages.  It also fixes the ALU
+wiki (which is running Kiwi, a descendant of CLiki).  Currently CLiki
+forgets to encode entities before writing out the source of the page
+you're editing into the relevant <TEXTAREA> field.  One consequence of
+this is that if you enter "&amp;lt;" into the textarea, then re-edit
+the page, you'll see "&lt;".  For more ranting, see my lemonodor post
 "`Always with the Fucking Ampersands`_".
 
 Yes, this is a hack that fixes something that should be fixed in the
