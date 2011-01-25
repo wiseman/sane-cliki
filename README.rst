@@ -27,7 +27,10 @@ HTML and has done some crazy information-losing DWIM shit.  The
 original page source is no longer accessible via the DOM.  So we hit
 the server again.
 
+Other relevant lemonodor posts: "`CLiki Grease`_".
+
 .. _John Wiseman: http://twitter.com/lemonodor
 .. _LICENSE.txt: http://github.com/wiseman/sane-cliki/blob/master/LICENSE.txt
 .. _CLiki: http://cliki.net/
 .. _Always with the Fucking Ampersands: http://lemonodor.com/archives/2005/01/always_with_the.html
+.. _CLiki Grease: http://lemonodor.com/archives/2005/05/cliki_grease.html
